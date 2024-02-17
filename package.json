@@ -13,7 +13,7 @@
     "vant": "^4.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "web3": "^4.4.0"
+    "web3": "^1.8.0"
   },
   "devDependencies": {
     "@vant/auto-import-resolver": "^1.0.2",
